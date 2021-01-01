@@ -1,6 +1,6 @@
 : 1
 name: cppget-hello
-version: 0.2.0-a.0.z
+version: 0.2.0
 summary: hello C++ executable
 license: MIT ; MIT License.
 description-file: README.md
