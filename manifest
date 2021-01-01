@@ -6,6 +6,7 @@ license: MIT ; MIT License.
 description-file: README.md
 url: https://example.org/hello
 email: lite2073+git@gmail.com
+builds: clang-10+ msvc-16.6+
 depends: * build2 >= 0.13.0
 depends: * bpkg >= 0.13.0
 depends: libhello ^1.0.0
