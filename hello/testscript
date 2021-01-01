@@ -1,6 +1,9 @@
 : basics
 :
-$* 'World' >'Hello, World!'
+$* 'World' >>EOF
+Hello, Extra!
+Hello, World!
+EOF
 
 : missing-name
 :
