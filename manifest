@@ -2,10 +2,10 @@
 name: hello
 version: 0.1.0
 summary: hello C++ executable
-license: other: proprietary ; Not free/open source.
+license: MIT ; MIT License.
 description-file: README.md
 url: https://example.org/hello
-email: lite2073@gmail.com
+email: lite2073+git@gmail.com
 depends: * build2 >= 0.13.0
 depends: * bpkg >= 0.13.0
 depends: libhello ^1.0.0
