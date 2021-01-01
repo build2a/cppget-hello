@@ -1,7 +1,6 @@
 : basics
 :
 $* 'World' >>EOF
-Hello, Extra!
 Hello, World!
 EOF
 

@@ -1,6 +1,5 @@
 libs =
 import libs += libhello%lib{hello}
-import libs += libextra%lib{extra}
 
 exe{hello}: {hxx ixx txx cxx}{**} $libs testscript
 
