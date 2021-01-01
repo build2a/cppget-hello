@@ -23,3 +23,6 @@
 *.exe.dlls/
 *.exe.manifest
 *.pc
+
+# vscode
+.vscode/settings.json
