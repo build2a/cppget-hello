@@ -21,4 +21,11 @@ $ bdep test
 ```bash
 # add new lib as a package
 $ bdep new --package -l c++ -t lib libhello
+
+# initialize new package
+$ cd libhello
+$ bdep init -a
+
+# verify
+$ bdep test
 ```
